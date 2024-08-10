@@ -7,7 +7,7 @@ local Tab = Window:MakeTab({
 })
 Tab:AddParagraph("Hub by fnata","version 1.1")
 Tab:AddParagraph("Hub maded in summer 2024","")
-Tab:AddParagraph("Discord","slaughterhouse hub don't have any Discord")
+Tab:AddParagraph("Discord","sh hub don't have Discord")
 local Tab = Window:MakeTab({
 	Name = "Scripts",
 	Icon = "rbxassetid://4483345998",
